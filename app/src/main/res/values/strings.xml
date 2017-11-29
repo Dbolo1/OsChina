@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">开源中国</string>
+    <string name="repetition">加载失败,点击重试</string>
+    <string-array name="news_title">
+        <item>咨询</item>
+        <item>热点</item>
+        <item>博客</item>
+        <item>推荐</item>
+    </string-array>
+    <string-array name="tab_title">
+        <item>综合</item>
+        <item>动弹</item>
+        <item>发现</item>
+        <item>我</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary_custom">#42a952</color>
+    <color name="colorPrimaryDark_custom">#000001</color>
+    <!-- 选中tab文字的颜色 -->
+    <color name="bg_tab_pressed">#fff</color>
+    <color name="tab_text_color">#ccc</color>
+
+</resources>
